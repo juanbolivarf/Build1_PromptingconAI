@@ -1,0 +1,65 @@
+Build on Prompting Resources with AI
+This is the base prompt that was experimented with during this build:
+
+Context:
+[Briefly explain what you're working on or what your role is. E.g.: I'm part of the operations team at a startup.]
+
+Problem:
+[Describe the current problem. What's happening that shouldn't be happening.]
+
+Pain or Consequences:
+[Explain the effects of this problem. What frustrates you, what's lost, what becomes complicated.]
+
+Ideal Goal:
+[How you'd like it to work. What result you'd want to achieve.]
+
+Can you help me break down this problem into steps or parts to better understand how to solve it?
+
+Problem:
+I need to present the IT team's SOPs to the General Manager and the Head of Operations. I have operational clarity on the team's work, but I didn't know how to structure the content to also communicate leadership, strategic value, and vision. I was concerned it would look like a simple task list instead of a key contribution to the company's efficiency.
+
+Conversation with ChatGPT
+
+Context: IT Support Coordinator presenting SOPs to leadership.
+
+Pain: Insecurity about the presentation's impact, lack of strategic narrative.
+
+Ideal Goal: Clear, visual SOPs that connect with company objectives (automation, control, efficiency).
+
+Key Prompt:
+
+Can you help me break down this problem into parts and see how I can present these SOPs more clearly, professionally, and aligned with the company's vision?
+
+This way, and with a clear structure, this is how the prompt for the AI turned out:
+
+"I am preparing SOPs to present to the General Manager and Head of Operations of my company (a BPO). I am an IT Support Coordinator and I want these documents to show clarity, organization, vision, and alignment with strategic objectives (such as inventory control, minimal operational downtime, and automation).
+
+Can you help me break down this problem into steps or parts to better understand how to solve it and have an effective and professional presentation?"
+
+Once the initial responses are obtained, we can delve deeper into the conversation to get better context and insights from the language model we are using.
+
+1. Divide the Problem
+"I'm working as an IT Support Coordinator at Anchora, and I need to present the team's SOPs to the Head of Operations and the General Manager of Colombia. I already have a draft, but I'm not sure if it communicates the strategic impact well or if it's structured in the best way.
+
+Can you help me break down this problem into steps or parts to better understand how to solve it?"
+
+2. Explore Solutions for Each Part
+"Now that I have the parts divided, what kind of solutions exist for each? Can you help me think of alternatives for each sub-problem?"
+
+3. Prioritize Improvements
+"Which of these parts seems easiest to improve first and would generate the greatest immediate impact on the presentation?"
+
+4. Design a Simple Solution
+"How could I structure a simple solution proposal for this case? Something that helps me quickly improve the presentation and convey clarity and value."
+
+5. Deepen the Problem
+"What questions should I ask myself to better understand this problem and ensure I'm addressing it from the root?"
+
+6. Detect Friction Points
+"What parts of the process (such as wording, format, focus, etc.) might be causing this friction in my presentation?"
+
+7. Define Concrete Objectives
+"What objectives could I propose to solve this problem in the short term? For example: clarity, visual design, strategic alignment..."
+
+8. Explore Types of Solutions
+"What types of solutions do you think could help me? Should I focus on improving the narrative, the visual format, or alignment with KPIs?"
