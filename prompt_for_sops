@@ -1,0 +1,75 @@
+Build sobre recurso de Prompting con AI
+
+Este es el prompt de base con el que se experimentó durante este build:
+
+  **Contexto:**
+  [Explica brevemente en qué estás trabajando o cuál es tu rol. Ej: Soy parte del equipo de operaciones en una startup.]
+  
+  **Problema:**
+  [Describe el problema actual. Qué está pasando que no debería pasar.]
+  
+  **Dolor o consecuencias:**
+  [Cuenta qué efectos tiene ese problema. Qué te frustra, qué se pierde, qué se complica.]
+  
+  **Objetivo ideal:**
+  [Cómo te gustaría que funcionara. Qué resultado querrías tener.]
+  
+  **¿Me ayudas a dividir este problema en pasos o partes para entender mejor cómo resolverlo?**
+
+
+Problema:
+Necesito presentar los SOPs del equipo de IT al Gerente General y al Jefe de Operaciones. Tengo claridad operativa sobre el trabajo del equipo, no sabía cómo estructurar el contenido para que también comunicara liderazgo, valor estratégico y visión. Me preocupaba que se vea como una simple lista de tareas en lugar de un aporte clave a la eficiencia de la compañía.
+
+Conversación con ChatGPT
+  Contexto: Coordinador de Soporte IT presentando SOPs al liderazgo.
+
+  Dolor: Inseguridad sobre el impacto de la presentación, falta de narrativa estratégica.
+
+  Objetivo ideal: SOPs claros, visuales, que conecten con los objetivos de la empresa (automatización, control, eficiencia).
+
+  Prompt clave:
+
+  ¿Me ayudas a dividir este problema en partes y ver cómo puedo presentar estos SOPs de manera más clara, profesional y alineada con la visión de la empresa?
+
+
+De esa forma, y con la estructura clara, así quedó el prompt para la IA:
+
+  "Estoy preparando SOPs para presentar al Gerente General y Jefe de Operaciones de mi empresa (un BPO). Soy Coordinador de Soporte IT y quiero que estos documentos muestren claridad, organización, visión y alineación con los objetivos estratégicos (como control de inventario, mínima caída operativa y automatización).
+
+  ¿Me ayudas a dividir este problema en pasos o partes para entender mejor cómo resolverlo y tener una presentación efectiva y profesional?"
+
+  
+Una vez obtenidas las respuestas iniciales, podemos profundizar en la conversación para obtener mejor contexto e insights por parte del modelo de lenguaje que estamos utilizando.
+
+1. Dividir el problema
+
+"Estoy trabajando como Coordinador de Soporte IT en Anchora, y debo presentar los SOPs del equipo al Head of Operations y al General Manager de Colombia. Ya tengo un borrador, pero no estoy seguro si comunica bien el impacto estratégico ni si está estructurado de la mejor forma.
+
+¿Me ayudas a dividir este problema en pasos o partes para entender mejor cómo resolverlo?"
+
+2. Explorar soluciones para cada parte
+
+"Ahora que tengo las partes divididas, ¿qué tipo de soluciones existen para cada una? ¿Me puedes ayudar a pensar en alternativas para cada subproblema?"
+
+3. Priorizar mejoras
+
+"¿Cuál de estas partes parece más fácil de mejorar primero y generaría mayor impacto inmediato en la presentación?"
+
+4. Diseñar una solución simple
+"¿Cómo podría estructurar una propuesta de solución simple para este caso? Algo que me ayude a mejorar rápidamente la presentación y que transmita claridad y valor."
+
+5. Profundizar en el problema
+"¿Qué preguntas debería hacerme para entender mejor este problema y asegurarme de que lo estoy abordando desde la raíz?"
+
+6. Detectar puntos de fricción
+"¿Qué partes del proceso (como redacción, formato, enfoque, etc.) podrían estar generando esta fricción en mi presentación?"
+
+ 7. Definir objetivos concretos
+"¿Qué objetivos podría proponerme para resolver este problema en el corto plazo? Por ejemplo: claridad, diseño visual, alineación estratégica..."
+
+8. Explorar tipos de soluciones
+"¿Qué tipos de soluciones crees que podrían servirme? ¿Debo enfocarme en mejorar la narrativa, el formato visual o la alineación con KPIs?"
+
+
+
+
